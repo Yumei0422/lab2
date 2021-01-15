@@ -4,9 +4,12 @@
 }
 
 /* applies to any <p> descendants of an element of class "example-class-selector" */
-.example-class-selector p {
-	/* Colors are in hexadecimal: http://www.colorpicker.com/ */	
-	color: #CC00AA;
+.project {
+	font-variant: small-caps;
+     margin-left: 20px;
+     /*background-color: #DCEAF2; */
+     padding: 20px;
+     width: 525px;
 }
 
 /* this style exists to make it obvious that you've successfully linked
